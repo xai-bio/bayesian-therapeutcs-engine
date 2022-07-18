@@ -1,1 +1,1 @@
-# Bayesian Therapeutcs Engine
+# Bayesian Therapeutics Engine
