@@ -12,6 +12,6 @@ The rate of scientific data generation is higher than ever and increasing rapidl
 
 As with any risk,  good decision-making requires research teams to gauge as accurately as possible the probability that a drug will indeed be viable. When the biological causes of disease are unknown new drugs are usually proposed on the assumption that a given hypothesis is the right one. Even if a hypothesis is true, other factors also affect the likelihood that a drug yields the desired results. Thus, the probability of the testing bearing fruit will be a product of such conditional probabilities.
 
-## Accelerate Scientific Modelling and Experimental Validation
+### Accelerate Scientific Modelling and Experimental Validation
 
 Scientific modelling is challenging. The Bayesian Therapeutics Engine ™ seeks to automate workflows in constructing scientific models. We need better theory to guide experiments: models formulated in a mathematical system, which explain and predict disease biology, and the mechanism of action of therapeutics. 
