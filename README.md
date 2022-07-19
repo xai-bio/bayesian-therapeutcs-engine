@@ -16,3 +16,11 @@ As with any risk,  good decision-making requires research teams to gauge as accu
 ### Accelerate Scientific Modelling and Experimental Validation
 
 Scientific modelling is challenging. The Bayesian Therapeutics Engine ™ seeks to automate workflows in constructing scientific models. We need better theory to guide experiments: models formulated in a mathematical system, which explain and predict disease biology, and the mechanism of action of therapeutics. 
+
+## Installation 
+
+**Bayesian Network.Rproj**: Run the code as an R Project in RStudio.
+
+**Bayesian_network.R**: Code to build skeleton Bayesian network and probability distribution calculations
+
+**Functions.R**: implementations of many functions used by Bayesian_network.R
