@@ -19,8 +19,8 @@ Scientific modelling is challenging. The Bayesian Therapeutics Engine ™ seeks 
 
 ## Installation 
 
-**Bayesian Network.Rproj**: Run the code as an R Project in RStudio.
+**Bayesian Network.Rproj**: run the code as an R Project in RStudio.
 
-**Bayesian_network.R**: Code to build Bayesian network and probability distribution calculations.
+**Bayesian_network.R**: code to build Bayesian network and probability distribution calculations.
 
 **Functions.R**: implementations of many functions used by Bayesian_network.R.
